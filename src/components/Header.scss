@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 120px;
+    height: 125px;
+    img {
+        height: 75px;
+    }
+    background-color: #202020;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    a {
+        padding: 0 20px;
+        font-size: 20px;
+        color: white;
+        text-decoration: 0;
+    }
+}
