@@ -40,7 +40,8 @@ and move to the next and previous questions via the buttons provided down below.
 - read all selected options
 - stop
 ### Object Detection Page
-![image](https://user-images.githubusercontent.com/71427348/165988648-af79cbcd-a828-4472-9a05-6695fd47a838.png)
+![image](https://github.com/keshav-06/Assisted-Vision/assets/87660591/4ac0664b-978b-44d4-af26-4b7b41b3485c)
+
 - As soon as the page opens up, the camera turns on after loading
 - the system starts detecting whatever is in front of the camera and reads it out loud
 ### Game/Tic Tac Toe Page
